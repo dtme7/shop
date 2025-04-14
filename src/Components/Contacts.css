@@ -1,0 +1,48 @@
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 95vh;
+  background-color: #f4f4f4;
+}
+
+.contacts-details {
+  background-color: #1a1a1a;
+  color: white;
+  padding: 40px;
+  border-radius: 12px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  max-width: 500px;
+  width: 100%;
+}
+
+.contacts-details h1 {
+  font-size: 32px;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.contacts-text {
+  font-size: 18px;
+  margin: 10px 0;
+  font-weight: 400;
+}
+
+.contacts-text:hover {
+  color: #ff6600;
+}
+
+.footer3 {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #ccc;
+}
+
+.footer3 p {
+  margin: 0;
+}
+
+.footer3 p:hover {
+  color: #ff6600;
+}
