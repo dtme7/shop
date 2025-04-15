@@ -83,3 +83,17 @@ nav.menu {
   margin: 0;
   font-size: 14px;
 }
+@media (max-width: 768px) {
+  .home {
+    height: 122vh;
+  }
+  .footer {
+    margin-top: 105px;
+  }
+  .btn {
+    position: relative;
+    left: 300px;
+    top: 295px;
+  }
+}
+
