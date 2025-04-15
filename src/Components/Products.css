@@ -115,3 +115,8 @@ ul > li {
   margin: 0;
   font-size: 14px;
 }
+@media (max-width: 768px) {
+  .searchProduct {
+    margin-left: -570px;
+  }
+}
