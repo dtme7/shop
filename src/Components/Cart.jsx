@@ -20,7 +20,9 @@ const Cart = ({ cart, toggleCart, removeFromCart }) => {
             </div>
           ))
         )}
+         <h3>Общая стоимость: {totalPrice}</h3>
         <button onClick={toggleCart}>Закрыть</button>
+        
       </div>
     </div>
   );
